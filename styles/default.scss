@@ -119,6 +119,9 @@ h6 {
   #navigation a {
     color: $main-text;
   }
+  #navigation a:hover {
+    color: $secondary-text;
+  }
 
   #navigation {
     margin: 0;
